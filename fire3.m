@@ -5,20 +5,7 @@ clc;
 clear all;
 close all hidden;
 
-Im1= imread('fire3.jpg');% give your file loction.  % 
-%Im1= imread('fire5.jpg');% give your file loction.
-%Im1= imread('fire7.jpg');% give your file loction.
-%Im1= imread('fire9.jpg');% give your file loction.
-%Im1= imread('fire11.jpg');% give your file loction.
-%Im1= imread('fire13.jpg');% give your file loction.
-%Im1= imread('fire-123784_1280.jpg');% give your file loction.
-%Im1= imread('fire21.jpg');% give your file loction.
-%Im1= imread('fire23.jpg');% give your file loction.
-%Im1= imread('fire25.jpg');% give your file loction.
-%Im1= imread('fire27.jpg');% give your file loction.
-%Im1= imread('fire29.jpg');% give your file loction.
-%Im1= imread('fire31.jpg');% give your file loction.
-Im1= imread('fire33.jpg');% give your file loction.
+Im1= imread('fire3.jpg');% give your file loction.  
 figure, imshow(Im1)
 
 figure , 
